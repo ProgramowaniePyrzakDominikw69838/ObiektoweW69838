@@ -1,0 +1,14 @@
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\bin\Debug\net8.0\lab4 zad 2.exe
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\bin\Debug\net8.0\lab4 zad 2.deps.json
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\bin\Debug\net8.0\lab4 zad 2.runtimeconfig.json
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\bin\Debug\net8.0\lab4 zad 2.dll
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\bin\Debug\net8.0\lab4 zad 2.pdb
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\lab4 zad 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\lab4 zad 2.AssemblyInfoInputs.cache
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\lab4 zad 2.AssemblyInfo.cs
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\lab4 zad 2.csproj.CoreCompileInputs.cache
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\lab4 zad 2.dll
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\refint\lab4 zad 2.dll
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\lab4 zad 2.pdb
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\lab4 zad 2.genruntimeconfig.cache
+C:\Users\48669\source\repos\lab3\lab4 zad 2\lab4 zad 2\obj\Debug\net8.0\ref\lab4 zad 2.dll
